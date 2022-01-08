@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Poppins';
+  src: font-url('Poppins-Regular.ttf');
+}
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+container{
+    margin-top: 100px;
+    display: inherit;
+}
